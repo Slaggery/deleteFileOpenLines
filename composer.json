@@ -1,0 +1,20 @@
+{
+  "name": "Kuzmin",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitriy Kuzmin",
+      "email": "slaggery@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kuzmin\\": "local"
+    }
+  },
+  "require": {
+    "symfony/var-dumper": "^5.2"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fcb1274-7619-4d19-bec8-9e9a11d990f4" name="brogzy">
+        <fileTransfer rootFolder="/home/bitrix/dev02/dev02.brogzy.ru" accessType="SFTP" host="dev02.brogzy.ru" port="22" sshConfigId="3d65c7aa-196b-42aa-8b55-06cdf5c83f11" sshConfig="root@dev02.brogzy.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
