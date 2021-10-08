@@ -6,7 +6,7 @@ define("NO_AGENT_CHECK", true);
 define("NO_AGENT_STATISTIC", true);
 define("STOP_STATISTICS", true);
 
-$_SERVER["DOCUMENT_ROOT"] = "/home/bitrix/dev02/dev02.brogzy.ru";
+$_SERVER["DOCUMENT_ROOT"] = "path";
 $DOCUMENT_ROOT = $_SERVER["DOCUMENT_ROOT"];
 
 include($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/main/include/prolog_before.php");
